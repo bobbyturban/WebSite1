@@ -1,0 +1,12 @@
+﻿body {
+font-size:1em;
+font-family:Arial;
+background:#eee;
+}
+#hellomessage{
+    font-weight:bold;
+}
+#mapid {
+    height: 100vh;
+    /*height: 180px;*/
+}
